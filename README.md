@@ -1,0 +1,1 @@
+This project filters out emails addressesses that do not match the specified pattern, and then writes the accepted emails addresesses along with other user information to a new file named "accepted_users.txt
